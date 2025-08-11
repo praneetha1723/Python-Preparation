@@ -1,0 +1,6 @@
+File Execution:
+In VS Code, Install Python Extension
+Then Ctrl+Shift+P Enter: >Python: Select Interpreter
+and then select Version installed in pc My Version: Python 3.12.4
+If you want to see your version, CMD: python --version
+then Ctrl+~ , its open terminal type: python filename.py
